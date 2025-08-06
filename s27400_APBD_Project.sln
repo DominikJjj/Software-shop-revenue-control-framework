@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s27400_APBD_Project", "s27400_APBD_Project\s27400_APBD_Project.csproj", "{E535D0A6-A125-42D4-86A1-23BC9F049064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s27400_APBD_Project_Tests", "s27400_APBD_Project_Tests\s27400_APBD_Project_Tests.csproj", "{B527999D-1331-43B7-9016-930ED560109E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E535D0A6-A125-42D4-86A1-23BC9F049064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E535D0A6-A125-42D4-86A1-23BC9F049064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E535D0A6-A125-42D4-86A1-23BC9F049064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E535D0A6-A125-42D4-86A1-23BC9F049064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B527999D-1331-43B7-9016-930ED560109E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B527999D-1331-43B7-9016-930ED560109E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B527999D-1331-43B7-9016-930ED560109E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B527999D-1331-43B7-9016-930ED560109E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
